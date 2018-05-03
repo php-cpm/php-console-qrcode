@@ -2,7 +2,7 @@
     "name": "leo108/php-console-qrcode",
     "description": "A PHP program that can generate qrcode in linux console",
     "require": {
-        "aferrandini/phpqrcode": "^1.0",
+        "maiscrm/phpqrcode": "^1.0",
         "symfony/console": "2.*|3.*",
         "symfony/process": "2.*|3.*"
     },

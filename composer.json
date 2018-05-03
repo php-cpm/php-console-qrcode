@@ -3,8 +3,8 @@
     "description": "A PHP program that can generate qrcode in linux console",
     "require": {
         "maiscrm/phpqrcode": "^1.0",
-        "symfony/console": "2.*|3.*",
-        "symfony/process": "2.*|3.*"
+        "symfony/console": "2.*|3.*|4.*",
+        "symfony/process": "2.*|3.*|4.*"
     },
     "license": "MIT",
     "authors": [
